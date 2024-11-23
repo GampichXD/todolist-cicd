@@ -28,7 +28,7 @@ Project ini adalah aplikasi web To-Do List sederhana yang dibangun menggunakan t
 Penyimpanan Lokal: Daftar To-Do disimpan di local storage sehingga data tetap ada meskipun halaman di-refresh.
 
 # Screenshot
-![Login](public/Screenshot.png)
+![Login](Screenshot.png)
 
 # Langkah Pengoperasian
 Memulai proyek
