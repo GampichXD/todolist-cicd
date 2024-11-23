@@ -36,6 +36,8 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
+        "@testing-library/jest-dom": "^6.6.3",
+        "@testing-library/react": "^16.0.1",
         "supertest": "^7.0.0"
     }
 }
